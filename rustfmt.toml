@@ -1,0 +1,12 @@
+# https://rust-lang.github.io/rustfmt/?version=master&search=
+
+comment_width=120
+max_width=120
+width_heuristics="Off"
+chain_width=120
+fn_call_width=120
+attr_fn_like_width=120
+struct_lit_width=20
+struct_variant_width=40
+array_width=60
+single_line_if_else_max_width=80

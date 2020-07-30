@@ -1,0 +1,992 @@
+[
+  {
+    "temp": [
+      {
+        "observation_time": "2020-07-30T09:00:00Z",
+        "min": { "value": 70.25, "units": "F" }
+      },
+      {
+        "observation_time": "2020-07-29T20:00:00Z",
+        "max": { "value": 89.77, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-07-30T09:00:00Z",
+        "min": { "value": 70.25, "units": "F" }
+      },
+      {
+        "observation_time": "2020-07-29T20:00:00Z",
+        "max": { "value": 90.74, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-07-29T20:00:00Z",
+        "min": { "value": 41.2, "units": "%" }
+      },
+      {
+        "observation_time": "2020-07-30T08:00:00Z",
+        "max": { "value": 85, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-07-29T22:00:00Z",
+        "min": { "value": 29.49, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-07-29T19:00:00Z",
+        "max": { "value": 29.56, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-07-29T21:00:00Z",
+        "min": { "value": 0.91, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-07-30T03:00:00Z",
+        "max": { "value": 5.26, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-07-29T21:00:00Z",
+        "min": { "value": 278.58, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-07-30T03:00:00Z",
+        "max": { "value": 202.22, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "mostly_clear" },
+    "observation_time": { "value": "2020-07-29" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-07-31T07:00:00Z",
+        "min": { "value": 67.37, "units": "F" }
+      },
+      {
+        "observation_time": "2020-07-30T19:00:00Z",
+        "max": { "value": 91.02, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-07-31T07:00:00Z",
+        "min": { "value": 67.37, "units": "F" }
+      },
+      {
+        "observation_time": "2020-07-30T19:00:00Z",
+        "max": { "value": 94.11, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-07-30T20:00:00Z",
+        "min": { "value": 44.5, "units": "%" }
+      },
+      {
+        "observation_time": "2020-07-31T07:00:00Z",
+        "max": { "value": 94.1, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-07-30T23:00:00Z",
+        "min": { "value": 29.43, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-07-30T13:00:00Z",
+        "max": { "value": 29.54, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-07-31T04:00:00Z",
+        "min": { "value": 1.51, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-07-31T01:00:00Z",
+        "max": { "value": 10.69, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-07-31T04:00:00Z",
+        "min": { "value": 14.21, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-07-31T01:00:00Z",
+        "max": { "value": 305.27, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "rain_light" },
+    "observation_time": { "value": "2020-07-30" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-07-31T11:00:00Z",
+        "min": { "value": 66.74, "units": "F" }
+      },
+      {
+        "observation_time": "2020-07-31T22:00:00Z",
+        "max": { "value": 78.53, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-07-31T11:00:00Z",
+        "min": { "value": 66.74, "units": "F" }
+      },
+      {
+        "observation_time": "2020-07-31T22:00:00Z",
+        "max": { "value": 78.53, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-07-31T18:00:00Z",
+        "min": { "value": 70.2, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-01T09:00:00Z",
+        "max": { "value": 94.2, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-07-31T22:00:00Z",
+        "min": { "value": 29.45, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-07-31T16:00:00Z",
+        "max": { "value": 29.49, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-01T03:00:00Z",
+        "min": { "value": 0.76, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-07-31T10:00:00Z",
+        "max": { "value": 5.89, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-01T03:00:00Z",
+        "min": { "value": 110.92, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-07-31T10:00:00Z",
+        "max": { "value": 355.51, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "drizzle" },
+    "observation_time": { "value": "2020-07-31" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-01T10:00:00Z",
+        "min": { "value": 68.81, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-01T20:00:00Z",
+        "max": { "value": 83.39, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-01T10:00:00Z",
+        "min": { "value": 68.81, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-01T20:00:00Z",
+        "max": { "value": 90.66, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-01T15:00:00Z",
+        "min": { "value": 74.1, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-01T10:00:00Z",
+        "max": { "value": 94.5, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-02T08:00:00Z",
+        "min": { "value": 29.42, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-01T13:00:00Z",
+        "max": { "value": 29.51, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-01T17:00:00Z",
+        "min": { "value": 0.31, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-02T01:00:00Z",
+        "max": { "value": 4.38, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-01T17:00:00Z",
+        "min": { "value": 192.67, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-02T01:00:00Z",
+        "max": { "value": 169.46, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "rain_light" },
+    "observation_time": { "value": "2020-08-01" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-03T09:00:00Z",
+        "min": { "value": 71.69, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-02T21:00:00Z",
+        "max": { "value": 91.67, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-03T09:00:00Z",
+        "min": { "value": 71.69, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-02T22:00:00Z",
+        "max": { "value": 101.53, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-02T19:00:00Z",
+        "min": { "value": 55.1, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-02T11:00:00Z",
+        "max": { "value": 94.1, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-02T23:00:00Z",
+        "min": { "value": 29.36, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-03T09:00:00Z",
+        "max": { "value": 29.47, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-03T08:00:00Z",
+        "min": { "value": 0.34, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-02T19:00:00Z",
+        "max": { "value": 14.27, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-03T08:00:00Z",
+        "min": { "value": 309.43, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-02T19:00:00Z",
+        "max": { "value": 203.75, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "rain_light" },
+    "observation_time": { "value": "2020-08-02" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-04T09:00:00Z",
+        "min": { "value": 69.3, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-03T21:00:00Z",
+        "max": { "value": 85.02, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-04T09:00:00Z",
+        "min": { "value": 69.3, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-03T21:00:00Z",
+        "max": { "value": 90.1, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-03T21:00:00Z",
+        "min": { "value": 62.5, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-03T10:00:00Z",
+        "max": { "value": 92.3, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-03T21:00:00Z",
+        "min": { "value": 29.44, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-04T09:00:00Z",
+        "max": { "value": 29.53, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-03T10:00:00Z",
+        "min": { "value": 0.18, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-03T15:00:00Z",
+        "max": { "value": 7.74, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-03T10:00:00Z",
+        "min": { "value": 233.51, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-03T15:00:00Z",
+        "max": { "value": 354.82, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "rain_light" },
+    "observation_time": { "value": "2020-08-03" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-05T09:00:00Z",
+        "min": { "value": 71.25, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-04T21:00:00Z",
+        "max": { "value": 88.92, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-05T09:00:00Z",
+        "min": { "value": 71.25, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-04T21:00:00Z",
+        "max": { "value": 93.54, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-04T18:00:00Z",
+        "min": { "value": 49.7, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-05T09:00:00Z",
+        "max": { "value": 91.7, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-04T21:00:00Z",
+        "min": { "value": 29.56, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-05T03:00:00Z",
+        "max": { "value": 29.63, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-05T09:00:00Z",
+        "min": { "value": 1.79, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-04T21:00:00Z",
+        "max": { "value": 6.76, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-05T09:00:00Z",
+        "min": { "value": 276.82, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-04T21:00:00Z",
+        "max": { "value": 212.83, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "rain_light" },
+    "observation_time": { "value": "2020-08-04" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-06T06:00:00Z",
+        "min": { "value": 70.43, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-05T21:00:00Z",
+        "max": { "value": 90.64, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-06T06:00:00Z",
+        "min": { "value": 70.43, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-05T21:00:00Z",
+        "max": { "value": 98.64, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-05T21:00:00Z",
+        "min": { "value": 55.5, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-06T09:00:00Z",
+        "max": { "value": 92.5, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-05T21:00:00Z",
+        "min": { "value": 29.59, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-05T15:00:00Z",
+        "max": { "value": 29.68, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-05T12:00:00Z",
+        "min": { "value": 2.48, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-05T18:00:00Z",
+        "max": { "value": 8.24, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-05T12:00:00Z",
+        "min": { "value": 283.51, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-05T18:00:00Z",
+        "max": { "value": 216.26, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "rain_light" },
+    "observation_time": { "value": "2020-08-05" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-07T09:00:00Z",
+        "min": { "value": 70.79, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-06T21:00:00Z",
+        "max": { "value": 88.61, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-07T09:00:00Z",
+        "min": { "value": 70.79, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-06T21:00:00Z",
+        "max": { "value": 95.15, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-06T21:00:00Z",
+        "min": { "value": 57.2, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-06T12:00:00Z",
+        "max": { "value": 92.1, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-06T21:00:00Z",
+        "min": { "value": 29.58, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-06T15:00:00Z",
+        "max": { "value": 29.65, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-07T03:00:00Z",
+        "min": { "value": 2.61, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-06T18:00:00Z",
+        "max": { "value": 6.28, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-07T03:00:00Z",
+        "min": { "value": 190.26, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-06T18:00:00Z",
+        "max": { "value": 210.15, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "rain_light" },
+    "observation_time": { "value": "2020-08-06" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-08T09:00:00Z",
+        "min": { "value": 71.51, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-07T18:00:00Z",
+        "max": { "value": 88.43, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-08T09:00:00Z",
+        "min": { "value": 71.51, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-07T21:00:00Z",
+        "max": { "value": 92.69, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-07T18:00:00Z",
+        "min": { "value": 51.5, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-07T12:00:00Z",
+        "max": { "value": 83.8, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-07T21:00:00Z",
+        "min": { "value": 29.6, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-07T15:00:00Z",
+        "max": { "value": 29.66, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-08T06:00:00Z",
+        "min": { "value": 2.09, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-07T15:00:00Z",
+        "max": { "value": 7.53, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-08T06:00:00Z",
+        "min": { "value": 267.49, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-07T15:00:00Z",
+        "max": { "value": 313.46, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "partly_cloudy" },
+    "observation_time": { "value": "2020-08-07" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-09T09:00:00Z",
+        "min": { "value": 72.41, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-08T21:00:00Z",
+        "max": { "value": 90.23, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-09T09:00:00Z",
+        "min": { "value": 72.41, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-08T21:00:00Z",
+        "max": { "value": 94.4, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-08T18:00:00Z",
+        "min": { "value": 47.3, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-08T12:00:00Z",
+        "max": { "value": 76.4, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-09T09:00:00Z",
+        "min": { "value": 29.52, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-08T12:00:00Z",
+        "max": { "value": 29.65, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-08T15:00:00Z",
+        "min": { "value": 1.91, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-09T00:00:00Z",
+        "max": { "value": 7.58, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-08T15:00:00Z",
+        "min": { "value": 272.08, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-09T00:00:00Z",
+        "max": { "value": 195.5, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "partly_cloudy" },
+    "observation_time": { "value": "2020-08-08" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-10T09:00:00Z",
+        "min": { "value": 70.39, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-09T18:00:00Z",
+        "max": { "value": 90.43, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-10T09:00:00Z",
+        "min": { "value": 70.39, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-09T18:00:00Z",
+        "max": { "value": 94.59, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-09T18:00:00Z",
+        "min": { "value": 48.2, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-10T09:00:00Z",
+        "max": { "value": 83.1, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-09T21:00:00Z",
+        "min": { "value": 29.46, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-09T12:00:00Z",
+        "max": { "value": 29.54, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-09T12:00:00Z",
+        "min": { "value": 2.95, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-09T21:00:00Z",
+        "max": { "value": 7.27, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-09T12:00:00Z",
+        "min": { "value": 268.66, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-09T21:00:00Z",
+        "max": { "value": 270.99, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "drizzle" },
+    "observation_time": { "value": "2020-08-09" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-11T09:00:00Z",
+        "min": { "value": 68.12, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-10T18:00:00Z",
+        "max": { "value": 90.23, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-11T09:00:00Z",
+        "min": { "value": 68.12, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-10T21:00:00Z",
+        "max": { "value": 96.3, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-10T18:00:00Z",
+        "min": { "value": 50.6, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-11T09:00:00Z",
+        "max": { "value": 85.4, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-10T21:00:00Z",
+        "min": { "value": 29.46, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-11T09:00:00Z",
+        "max": { "value": 29.57, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-11T09:00:00Z",
+        "min": { "value": 3.95, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-10T15:00:00Z",
+        "max": { "value": 8.98, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-11T09:00:00Z",
+        "min": { "value": 310.27, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-10T15:00:00Z",
+        "max": { "value": 260.84, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "mostly_cloudy" },
+    "observation_time": { "value": "2020-08-10" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-11T12:00:00Z",
+        "min": { "value": 71.87, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-11T21:00:00Z",
+        "max": { "value": 91.49, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-11T12:00:00Z",
+        "min": { "value": 71.87, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-11T21:00:00Z",
+        "max": { "value": 94.93, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-11T18:00:00Z",
+        "min": { "value": 44, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-12T06:00:00Z",
+        "max": { "value": 84.3, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-12T09:00:00Z",
+        "min": { "value": 29.52, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-11T15:00:00Z",
+        "max": { "value": 29.63, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-11T21:00:00Z",
+        "min": { "value": 1.78, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-11T15:00:00Z",
+        "max": { "value": 4.3, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-11T21:00:00Z",
+        "min": { "value": 144.29, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-11T15:00:00Z",
+        "max": { "value": 308.21, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "drizzle" },
+    "observation_time": { "value": "2020-08-11" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  },
+  {
+    "temp": [
+      {
+        "observation_time": "2020-08-13T09:00:00Z",
+        "min": { "value": 69.53, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-12T18:00:00Z",
+        "max": { "value": 86.81, "units": "F" }
+      }
+    ],
+    "feels_like": [
+      {
+        "observation_time": "2020-08-13T09:00:00Z",
+        "min": { "value": 69.53, "units": "F" }
+      },
+      {
+        "observation_time": "2020-08-12T18:00:00Z",
+        "max": { "value": 93.58, "units": "F" }
+      }
+    ],
+    "humidity": [
+      {
+        "observation_time": "2020-08-12T15:00:00Z",
+        "min": { "value": 58.3, "units": "%" }
+      },
+      {
+        "observation_time": "2020-08-13T09:00:00Z",
+        "max": { "value": 93.2, "units": "%" }
+      }
+    ],
+    "baro_pressure": [
+      {
+        "observation_time": "2020-08-12T21:00:00Z",
+        "min": { "value": 29.48, "units": "inHg" }
+      },
+      {
+        "observation_time": "2020-08-12T12:00:00Z",
+        "max": { "value": 29.55, "units": "inHg" }
+      }
+    ],
+    "wind_speed": [
+      {
+        "observation_time": "2020-08-12T12:00:00Z",
+        "min": { "value": 3.35, "units": "mph" }
+      },
+      {
+        "observation_time": "2020-08-12T21:00:00Z",
+        "max": { "value": 11.32, "units": "mph" }
+      }
+    ],
+    "wind_direction": [
+      {
+        "observation_time": "2020-08-12T12:00:00Z",
+        "min": { "value": 217.96, "units": "degrees" }
+      },
+      {
+        "observation_time": "2020-08-12T21:00:00Z",
+        "max": { "value": 345.18, "units": "degrees" }
+      }
+    ],
+    "weather_code": { "value": "rain_light" },
+    "observation_time": { "value": "2020-08-12" },
+    "lat": 38.860409,
+    "lon": -77.32479
+  }
+]
